@@ -21,5 +21,8 @@ pencil_top_whistle.stl   | http://www.thingiverse.com/thing:148291
 Pipe_drip_tip-V3.stl     | http://www.thingiverse.com/thing:223430
 The 3D D.stli            | http://www.makerlove.com/
 spyblock.stl             | http://www.thingiverse.com/thing:195405
+captive_ball.stl         | http://www.thingiverse.com/thing:195435
+rotating_rings_toy_flat.stl | http://www.thingiverse.com/thing:251118
+catapult.stl             | http://www.thingiverse.com/thing:243950
 
 
